@@ -1,0 +1,4 @@
+rabbit/*.pyc
+rabbit/.idea/*.iml
+.idea/*
+rabbit/__pycache__/rabbit.cpython-37.pyc
